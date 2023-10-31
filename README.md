@@ -28,4 +28,5 @@ Bon courage pour ce projet, et bonne journée !
 Sarah, CTO @Booki
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Maquette : https://www.figma.com/file/r9YJyUkpVdrxzBBKGH7reY/Maquettes-Booki-(desktop%2C-mobile%2C-tablette)?mode=dev
+
 Synthèse : https://course.oc-static.com/projects/D%C3%A9veloppeur+Web/IW_P3+HTML+CSS+Booki/IW+%3A+React+Booki+-+Note+de+synthese.pdf
